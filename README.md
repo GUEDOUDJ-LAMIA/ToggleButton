@@ -18,4 +18,4 @@
     
     
     # in this code you find a simple example of the use of toggleButton 
- https://github.com/GUEDOUDJ-LAMIA/ToggleButton/issues/1#issue-1146907218
+![toggleButton](https://user-images.githubusercontent.com/83591401/155140870-4727c140-1564-4854-a6d8-b9b8c0b25588.png)
